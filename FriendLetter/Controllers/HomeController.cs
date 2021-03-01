@@ -6,6 +6,6 @@ namespace FriendLetter.Controllers
   {
     
     public string Hello() {return "Hello friend!"; }
-    
+
   }
 }
